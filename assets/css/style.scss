@@ -28,7 +28,7 @@ th, td {
   margin:0px;
   position: relative;
   padding: 5px;
-  float:center;
+  float:left;
 }
 
 .portfolio_image {
@@ -69,29 +69,42 @@ th, td {
   font-weight: bolder;
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 960px) {
 
   .portfolio_item {
-  width: 250px;
+  width: 225px;
 }
 
 .portfolio_image {
   object-position: 50% 50%;
-  width: 250px;
+  width: 225px;
 }
   
 }
 
 
-@media print, screen and (max-width: 480px) { 
+@media print, screen and (max-width: 720px) {
 
   .portfolio_item {
-  width: 250px;
+  width: 225px;
 }
 
 .portfolio_image {
   object-position: 50% 50%;
-  width: 250px;
+  width: 225px;
+}
+  
+}
+
+@media print, screen and (max-width: 480px) { 
+
+  .portfolio_item {
+  width: 275px;
+}
+
+.portfolio_image {
+  object-position: 50% 50%;
+  width: 275px;
 }
 
 }
