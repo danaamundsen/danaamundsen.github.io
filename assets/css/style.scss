@@ -19,8 +19,8 @@ th, td {
 }
 
 .portfolio_item {
-  width: 235px;
-  height: 300px;
+  width: 150px;
+  height: 200px;
   margin:0px;
   position: relative;
   padding: 5px;
@@ -33,8 +33,8 @@ th, td {
   border-radius: 10px;
   object-fit: cover;
   object-position: 50% 0%;
-  width: 235px;
-  height: 300px;
+  width: 150px;
+  height: 200px;
   transition: .5s ease;
   backface-visibility: hidden;
 }
