@@ -17,3 +17,50 @@ th, td {
   padding:5px 10px;
   border: none;
 }
+
+.portfolio_item {
+  width: 235px;
+  height: 300px;
+  margin:0px;
+  position: relative;
+  padding: 5px;
+  float:left;
+}
+
+.portfolio_image {
+  opacity: 1;
+  display: inline-block;
+  border-radius: 10px;
+  object-fit: cover;
+  object-position: 50% 0%;
+  width: 235px;
+  height: 300px;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.portfolio_hover {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+.portfolio_item:hover .portfolio_image {
+  opacity: .3;
+}
+
+.portfolio_item:hover .portfolio_hover {
+  opacity: 1;
+}
+
+.portfolio_desc {
+  background-color: #fcf6fe;
+  color: #605564;
+  padding: 16px 32px;
+  border-radius: 5px;
+  font-weight: bolder;
+}
