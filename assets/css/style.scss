@@ -2,3 +2,18 @@
 ---
 
 @import "{{ site.theme }}";
+
+a {
+  color:#674EA7;
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  color:#D1C9E4;
+}
+
+th, td {
+  text-align:left;
+  padding:5px 10px;
+  border: none;
+}
