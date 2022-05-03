@@ -3,8 +3,12 @@
 
 @import "{{ site.theme }}";
 
-.hr{
-  border: 0px solid #fff;
+.wrapper{
+  width: auto;
+}
+
+section{
+  width: 500px;
 }
 
 a {
@@ -100,7 +104,6 @@ th, td {
 
   .portfolio_item {
   width: 275px;
-  float: center;
 }
 
 .portfolio_image {
