@@ -64,3 +64,15 @@ th, td {
   border-radius: 5px;
   font-weight: bolder;
 }
+
+
+screen @media and (maximum width: 479px) { 
+.portfolio_item {
+  width: 100px;
+}
+
+.portfolio_image {
+  width: 100px;
+}
+
+}
