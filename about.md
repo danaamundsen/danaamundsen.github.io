@@ -21,7 +21,7 @@ Worked with the author to create a series of illustrations to communicate ideas 
 
 #### Louisville Magazine
 Splash Illustrations
-2014- 2016
+2014 - 2016
 
 Worked with Louisville Magazine 3 times to provide splash illustrations for the magazine.
 
