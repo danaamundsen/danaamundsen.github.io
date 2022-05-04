@@ -3,13 +3,6 @@
 
 @import "{{ site.theme }}";
 
-hr {
-  border:0px;
-  background:#fff;
-  height:0px;
-  margin:0 0 20px;
-}
-
 a:hover{
   font-weight: normal;
 }
@@ -64,11 +57,12 @@ a:hover, a:focus {
 
 .portfolio_desc {
   background-color: #fcf6fe;
-  color: #605564;
+  color: #D1C9E4;
   padding: 8px 16px;
   border-radius: 5px;
   text-align: center;
   font-size: 11px;
+  color: #674EA7;
 }
 
 @media print, screen and (max-width: 960px) {
