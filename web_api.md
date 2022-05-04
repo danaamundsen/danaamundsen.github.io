@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /web_api/
 ---
 
 ![illustration](http://danaamundsen.site44.com/images/portfolio/book_illustrations/web_api/apifirst.png "api first illustration")
