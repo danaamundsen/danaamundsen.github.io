@@ -94,12 +94,12 @@ th, td {
 @media print, screen and (max-width: 720px) {
 
   .portfolio_item {
-  width: inherit;
+  width: auto;
 }
 
 .portfolio_image {
   object-position: 50% 50%;
-  width: inherit;
+  width: auto;
 }
   
 }
@@ -107,12 +107,12 @@ th, td {
 @media print, screen and (max-width: 480px) { 
 
   .portfolio_item {
-  width: inherit;
+  width: auto;
 }
 
 .portfolio_image {
   object-position: 50% 50%;
-  width: inherit;
+  width: auto;
 }
 
 }
