@@ -13,6 +13,16 @@ I'm Dana Amundsen, a comic artist and illustrator who creates expressive, fantas
 
 ## CV
 
+### Education
+
+#### Bachelor of Fine Arts and English
+University of Louisville  
+May 2013
+
+Graduated Magna Cum Laude from the University of Louisville with a BFA in Fine Art and English.
+
+### Illustration
+
 #### [Design and Build Great Web APIs](http://www.greatwebapis.com/)
 Series of Illustrations  
 2020
@@ -24,6 +34,8 @@ Splash Illustrations
 2014 - 2016
 
 Worked with Louisville Magazine 3 times to provide splash illustrations for the magazine.
+
+### Comics and Games
 
 #### Louisville Cartoonist Society Space Anthology
 Comic and Back Cover  
@@ -37,12 +49,6 @@ Illustrations for a text based twine game
 
 Worked with a fellow creative to create a series of illustrations for a text based game where the player crash lands on a mysterious planet. The author shared their story ideas and over the course of 3 meetings we decided on the concepts that would become illustrations for the game. This was a very collaborative project.
 
-#### Tiny Trifecta Art Show
-Rock Paper Scissors, Cincinnati  
-Spring, 2015
-
-Participated in a art show featuring local artists small works.
-
 #### [Lady Knight Web Comic](http://ladyknightcomic.tumblr.com/)
 2015-2021
 
@@ -54,8 +60,10 @@ Summer 2015
 
 Wrote and drew a comic on the theme of fantasy, and drew a back cover splash illustration for local cartoonist society. The comic submitted to this anthology eventually became Lady Knight, my first online web comic.
 
-#### Bachelor of Fine Arts and English
-University of Louisville  
-May 2013
+### Shows
 
-Graduated Magna Cum Laude from the University of Louisville with a BFA in Fine Art and English.
+#### Tiny Trifecta Art Show
+Rock Paper Scissors, Cincinnati  
+Spring, 2015
+
+Participated in a art show featuring local artists small works.
