@@ -6,6 +6,9 @@ permalink: /about/
 <img src ="http://danaamundsen.site44.com/selfie_icon.png" alt="Drawing of me, the artist, in black and white" width="100" align="right">
 I'm Dana Amundsen, a comic artist and illustrator who creates expressive, fantastical, and playful drawings for digital and print media. I believe drawings are vehichles for communication and story telling in addition to being beautiful works of art. I would love to work with you to tell your story through drawings.
 
+[danaamundsen@gmail.com](mailto:danaamundsen@gmail.com)
+[twitter](http://www.https://twitter.com/danaamundsen)
+
 ## Skills
 - Adobe Creative Suite (Photoshop, InDesign, Illustrator)
 - Clip Studio Paint
