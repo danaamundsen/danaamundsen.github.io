@@ -8,7 +8,7 @@ I'm Dana Amundsen, a comic artist and illustrator who creates expressive, fantas
 
 ## Contact
 [danaamundsen@gmail.com](mailto:danaamundsen@gmail.com)  
-[twitter](http://www.https://twitter.com/danaamundsen)
+[twitter](http://www.twitter.com/danaamundsen)
 
 ## Skills
 - Adobe Creative Suite (Photoshop, InDesign, Illustrator)
