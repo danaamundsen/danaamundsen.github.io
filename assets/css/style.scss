@@ -7,17 +7,15 @@ h4 {
   color: #D1C9E4;
 }
 
-a:hover{
-  font-weight: inherit;
-}
-
 a {
   color:#674EA7;
-  text-decoration:none;
+  text-decoration: underline;
 }
 
 a:hover, a:focus {
   color:#D1C9E4;
+  font-weight: inherit;
+  text-decoration: none;
 }
 
 .mySlides{
