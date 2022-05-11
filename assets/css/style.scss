@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+h2 {
+  border-bottom: 1px solid #D1C9E4;
+}
+
 h4 {
   color: #674EA7;
 }
