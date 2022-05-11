@@ -5,7 +5,7 @@ tags: ["illustration"]
 permalink: /butchertown/
 ---
 
-![alt](http://danaamundsen.site44.com/images/portfolio/magazine/butchertown.png "title")
+![Colorful illustration of a trolley driving down the street in Butchertown, Louisville.](http://danaamundsen.site44.com/images/portfolio/magazine/butchertown.png "Butchertown")
 
 ##### Butchertown
 
