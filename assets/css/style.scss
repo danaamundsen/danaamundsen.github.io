@@ -129,12 +129,12 @@ a:hover, a:focus {
 }
   
   .portfolio_item {
-  width: 200px;
+  width: 50%;
 }
 
 .portfolio_image {
   object-position: 50% 50%;
-  width: 200px;
+  width: 50%;
 }
   
 }
@@ -142,12 +142,12 @@ a:hover, a:focus {
 @media print, screen and (max-width: 480px) { 
 
   .portfolio_item {
-  width: 200px;
+  width: 100%;
 }
 
 .portfolio_image {
   object-position: 50% 50%;
-  width: 200px;
+  width: 100%;
 }
 
 }
