@@ -31,19 +31,20 @@ a:hover, a:focus {
 
 .slidebutton{
   border: none;
-  border-radius: 8px;
-  background-color: #674EA7;
+  border-radius: 4px;
+  background-color: #D1C9E4;
   color: #fff;
-  padding: 7px 15px;
+  padding: 4px 8px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  transition-duration: 0.4s;
+  transition-duration: 0.2s;
   margin: 3px;
 }
 
 .slidebutton:hover{
-  background-color: #D1C9E4;
+  background-color: #fff;
+  color: #D1C9E4;
 }
 
 .portfolio_item {
