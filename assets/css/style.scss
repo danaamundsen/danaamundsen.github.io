@@ -16,6 +16,14 @@ a:hover, a:focus {
   color:#D1C9E4;
 }
 
+.mySlides{
+  border-radius: 10px;
+  object-fit: cover;
+  object-position: 50% 50%;
+  width: 100%;
+  height: 600px;
+}
+
 .portfolio_item {
   width: 150px;
   height: 200px;
