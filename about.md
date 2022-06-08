@@ -14,10 +14,9 @@ I'm Dana Amundsen, a comic artist and illustrator who creates expressive, fantas
 <div id="mc_embed_signup">
 <form action="https://dana-amundsen.us18.list-manage.com/subscribe/post?u=33d98cc15666b8c62e05361ca&amp;id=b3e3d60af3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>join my mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+	<h2>Join My Mailing List</h2>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+	<label for="mce-EMAIL">Email Address 
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
