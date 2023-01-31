@@ -7,12 +7,21 @@
 
 body {
   font-family: {{ site.body_font }}, sans-serif;
+  color: {{ site.font_color }};
 }
 
 h1, #main-content h1, h2, #main-content h2, h3, #main-content h3 {
   font-family: {{ site.header_font }}, serif;
+  color: {{ site.color1 }};
 }
 
 header {
   background-repeat: repeat;
+}
+
+#main-content h1:before {
+    padding-right: 0.3em;
+    margin-left: -0.9em;
+    color: {{ site.color2 }};
+    content: "/";
 }
