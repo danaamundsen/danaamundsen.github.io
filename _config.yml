@@ -3,7 +3,7 @@ description: Comic Artist and Web Witch
 theme: jekyll-theme-architect
 
 body_font: Roboto Slab #font used for body text
-header_font: Fascinate Inline #font used for title and header
+header_font: Vast Shadow #font used for title and header
 
 font_color: "#000"
 color1: "#aaa" #color of links and headers
