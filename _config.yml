@@ -1,3 +1,6 @@
 title: Dana Amundsen
 description: Comic Artist and Web Witch
 theme: jekyll-theme-architect
+
+body_font: Baskerville Libre #font used for body text
+header_font: Rye #font used for title and header
