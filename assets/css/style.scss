@@ -9,7 +9,7 @@ body {
   font-family: {{ site.body_font }}, sans-serif;
 }
 
-h1, h2, h3 {
+h1, #main-content h1, h2, #main-content h2, h3, #main-content h3 {
   font-family: {{ site.header_font }}, serif;
 }
 
