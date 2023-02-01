@@ -31,16 +31,12 @@ a:hover, a:active, a:focus {
   text-decoration: none;
 }
 
-h1 a, h2 a, h3 a, header{
+h1 a, h2 a, h3 a {
   font-weight: 400;
   text-decoration: none;
 }
 
-header h1 a {
-  text-decoration: none;
-}
-
-header h2{
+header h2 {
   color: {{ site.color2 }};
 }
 
@@ -80,16 +76,12 @@ ul.menu {
 li.dropdown {
   float: left;
   display: inline-block;
-  border-right: 1px solid {{ site.color1 }};
 }
 
-li.dropdown:last-child {
-  border-right: none;
-}
 
 li a.menu_link, .dropbtn {
   display: block;
-  padding: 5px 3px;
+  padding: 8px 3px;
   text-decoration: underline;
   color: {{ site.color1 }};
 }
@@ -103,15 +95,13 @@ li a.menu_link:hover, .dropdown:hover .dropbtn {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: {{ site.color2 }};
-  border: 1px solid {{ site.color1 }};
   border-top: 0px;
 }
 
 .dropdown-content a {
   display: block;
   text-align: left;
-  padding: 5px 3px;
+  padding: 8px 3px;
   text-decoration: underline;
   font-style: italic;
   color: {{ site.color2 }};
