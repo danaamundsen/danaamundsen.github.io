@@ -71,16 +71,15 @@ header {
 
 ul.menu {
   list-style-type: none;
+  overflow: hidden;
   margin: 0;
   padding: 0;
-  overflow: hidden;
   font-family: {{ site.header_font }};
 }
 
-
 li a.menu_link {
-  display: block;
   float: left;
+  display: block;
   padding: 8px 3px;
   text-decoration: underline;
   color: {{ site.color2 }};
