@@ -31,11 +31,14 @@ a:hover, a:active, a:focus {
   text-decoration: none;
 }
 
-h1 a, h2 a, h3 a{
+h1 a, h2 a, h3 a, header{
   font-weight: 400;
   text-decoration: none;
 }
 
+header h1 a {
+  text-decoration: none;
+}
 hr {
   border: 0;
   background: {{ site.color1 }};
