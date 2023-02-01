@@ -33,7 +33,7 @@ a:hover, a:active, a:focus {
 
 h1 a, h2 a, h3 a {
   font-weight: 400;
-  text-decoration: none;
+  text-decoration: underline;
   color: {{ site.color2 }};
 }
 
