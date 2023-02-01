@@ -52,11 +52,15 @@ hr {
 
 header {
   background-repeat: repeat;
-  border-bottom: 0px solid black;
+}
+
+#content-wrapper {
+  padding-top: 0px;
+  border-top: 0px solid black;
 }
 
 aside#sidebar {
-  background-repeat: y-repeat;
+  background-repeat: repeat-y;
 }
 
 /* leading slash */
