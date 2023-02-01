@@ -52,11 +52,14 @@ hr {
 
 header {
   background-repeat: repeat;
+  border-bottom: 0px solid black;
 }
 
 #content-wrapper {
   padding-top: 0px;
   border-top: 0px solid black;
+  overflow: auto;
+  height: 0px;
 }
 
 aside#sidebar {
