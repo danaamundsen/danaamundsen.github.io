@@ -22,7 +22,7 @@ h1, #main-content h1, h2, #main-content h2, h3, #main-content h3 {
 a {
   font-weight: 400;
   color: {{ site.color1 }};
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover, a:active, a:focus {
@@ -52,6 +52,7 @@ hr {
 
 header {
   background-repeat: repeat;
+  border-bottom: 0px solid black;
 }
 
 #sidebar {
