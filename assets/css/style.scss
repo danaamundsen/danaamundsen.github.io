@@ -60,13 +60,11 @@ header {
   border-top: 0px solid black;
 }
 
-/* leading slash */
-
 #main-content h1:before {
     padding-right: 0.3em;
     margin-left: -0.9em;
     color: {{ site.color2 }};
-    content: "&#9670;";
+    content: "◆";
 }
 
 /* menu */
@@ -82,6 +80,7 @@ ul.menu {
 
 li a.menu_link {
   display: block;
+  float: left;
   padding: 8px 3px;
   text-decoration: underline;
   color: {{ site.color2 }};
