@@ -86,9 +86,11 @@ li a.menu_link {
   float: left;
   display: block;
   padding: 16px 8px;
+  margin: 5px;
   text-decoration: underline;
   color: {{ site.color2 }};
-  background: {{site.color1}};
+  background: {{ site.color1 }};
+  border: 1px solid {{site.color2 }};
 }
 
 li a.menu_link:hover {
