@@ -88,10 +88,10 @@ li a.menu_link {
   display: block;
   padding: 8px 16px;
   margin: 5px;
-  text-decoration: underline;
+  text-decoration: none;
+  font-weight: 600;
   color: {{ site.color2 }};
   background: {{ site.color1 }};
-  border: 1px solid {{site.color2 }};
   border-radius: 5px;
 }
 
